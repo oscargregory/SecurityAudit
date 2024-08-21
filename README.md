@@ -24,45 +24,14 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Control and Compliance Checklist: </h2>
 
-(https://docs.google.com/document/d/1uziRJw-yxcn5nes-qvR2tp1EGqq1h20b2PZv82aofk0/edit?usp=sharing)
+-  https://docs.google.com/document/d/1uziRJw-yxcn5nes-qvR2tp1EGqq1h20b2PZv82aofk0/edit?usp=sharing)
 
-<h2>Program walk-through:</h2>
+<h2>Completed Control and Compliance Checklist:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+- https://docs.google.com/document/d/1IF8L-9y9MfmyPDFW0JdSq_1QZrk1nL5oEemyFej7oe4/edit?usp=sharing
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2>Recommendations Made: </h2>
+
+To enhance Botium Toys' security posture and safeguard sensitive information, several controls should be implemented, including: least privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing management of legacy systems, encryption, and a password management system.
+
+To address compliance gaps, Botium Toys must adopt measures such as least privilege, separation of duties, and encryption. Additionally, proper asset classification is necessary to identify any further controls that may be required to strengthen security and protect confidential data.
