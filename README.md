@@ -22,11 +22,11 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 - <b>Control Categories:</b>
   https://docs.google.com/document/d/1DhYpb3ZVVz-iJLgWAhv28vVwOCOvcNBYy68GntnyU0Y/edit?usp=sharing&resourcekey=0-kGPIL2QoyqFySXRL1JMWTA
 
-<h2>Control and Compliance Checklist: </h2>
+<h2>Template - Control and Compliance Checklist: </h2>
 
 -  https://docs.google.com/document/d/1uziRJw-yxcn5nes-qvR2tp1EGqq1h20b2PZv82aofk0/edit?usp=sharing)
 
-<h2>Completed Control and Compliance Checklist:</h2>
+<h2>Completed - Control and Compliance Checklist:</h2>
 
 - https://docs.google.com/document/d/1IF8L-9y9MfmyPDFW0JdSq_1QZrk1nL5oEemyFej7oe4/edit?usp=sharing
 
