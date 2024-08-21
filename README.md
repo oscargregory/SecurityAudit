@@ -3,7 +3,7 @@
 <h1>Managing Security Risks: Conduct a Security Audit Portfolio Project</h1>
 
 <h2>Scenario</h2>
-_This scenario is based on a fictional company:_
+This scenario is based on a fictional company:
 
 Botium Toys is a small U.S. business that develops and sells toys. The business has a single physical location, which serves as their main office, a storefront, and warehouse for their products. However, Botium Toy’s online presence has grown, attracting customers in the U.S. and abroad. As a result, their information technology (IT) department is under increasing pressure to support their online market worldwide. 
 
@@ -22,9 +22,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 - <b>Control Categories:</b>
   https://docs.google.com/document/d/1DhYpb3ZVVz-iJLgWAhv28vVwOCOvcNBYy68GntnyU0Y/edit?usp=sharing&resourcekey=0-kGPIL2QoyqFySXRL1JMWTA
 
-<h2>Environments Used </h2>
+<h2>Control and Compliance Checklist: </h2>
 
-- <b>Windows 10</b> (21H2)
+(https://docs.google.com/document/d/1uziRJw-yxcn5nes-qvR2tp1EGqq1h20b2PZv82aofk0/edit?usp=sharing)
 
 <h2>Program walk-through:</h2>
 
