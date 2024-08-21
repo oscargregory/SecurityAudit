@@ -17,9 +17,9 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 <h2>Supporting Material</h2>
 
-- <b>Botium Toys: Scope, goals, and risk assessment report</b>
+- <b>Botium Toys: Scope, goals, and risk assessment report:</b>
   https://docs.google.com/document/d/1irckNaIK0aTi3im9Ne_3aVIS5p5Gfc0AvG24zS-2KQI/edit?usp=sharing
-- <b>Control Categories</b>
+- <b>Control Categories:</b>
   https://docs.google.com/document/d/1DhYpb3ZVVz-iJLgWAhv28vVwOCOvcNBYy68GntnyU0Y/edit?usp=sharing&resourcekey=0-kGPIL2QoyqFySXRL1JMWTA
 
 <h2>Environments Used </h2>
